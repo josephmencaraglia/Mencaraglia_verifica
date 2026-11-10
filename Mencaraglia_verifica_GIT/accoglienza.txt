@@ -1,0 +1,3 @@
+per i visitatori bisogna entrare nello stadio
+i visitatori non possono entrare nel campo da calcio
+a ogni visitatore verrà dato un biglietto per assegnarli il suo posto
